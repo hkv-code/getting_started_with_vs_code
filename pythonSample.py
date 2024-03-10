@@ -1,2 +1,3 @@
-print(";;;;;;;;;;;;;;;;;")
-print("dfdsfsdfs")
+print(";;;;;;;;;;;;*;;;")
+
+print("hello world")
